@@ -60,7 +60,7 @@
                 color: var(--accent-purple);
             }
 
-            li::nth-of-type(2) {
+            li:nth-of-type(2) {
                 color: var(--accent-pink);
             }
 
